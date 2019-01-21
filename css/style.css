@@ -1,0 +1,336 @@
+body{
+
+    font-family: iranb;
+    text-align: right!important;
+
+    
+}
+
+.navbar-brand{
+    padding-right: 50px;
+    border: 0!important;
+}
+
+.bg-dark{
+    background-color: black!important;
+    color: aliceblue!important;
+}
+.navbar-dark{
+    color: white!important;
+}
+
+.navbar-nav{
+    padding-right: 50px;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    position:relative;
+    top: 0;
+    
+}
+.fixed-top{
+    direction: rtl;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark a:hover{
+    background: #ddd;
+  color: black;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 2.5rem;
+    font-family: iranm;
+}
+.main{
+    height:100vh;
+    background-image: url('../image/pc.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    -moz-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+
+}
+.opacity{
+    -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    -moz-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    background: linear-gradient(to right,#524aef,#931dd1);
+    opacity: 0.5;
+    height:100vh;
+}
+nav .nav-link{
+    color: #fff!important;
+
+}
+nav .nav-link:hover{
+    color: gray!important;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+ .opacity{
+  background-color: #eee;
+  min-height: 100%;
+  color: #fff;
+  /* background-image: url("http://isaacsuttell.com/img/justine.jpg");*/
+ background-size: cover; 
+  background-position: center;
+  font-family: Raleway, sans-serif;
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 71%);
+    height:100vh;
+}
+.title {
+
+       /*letter-spacing: 0.1em;*/
+       z-index: 100;
+       color: #fff;
+       text-align: center;
+
+}
+.opacity img{
+    display:block;
+    margin:50px auto;
+    width:150px;
+    padding-top: 20px;
+}
+.title1{
+    font-family:iranb!important;
+    padding-top:30px;
+
+}
+.title2{
+    font-family: iranm!important;
+    padding-top: 50px;
+
+}
+
+    
+  
+
+
+.services p{
+    text-align: center;
+    font-family: iranb;
+    font-size: 20px;
+    padding-top: 15px;
+
+}
+
+.services h2{
+    padding-top: 10px;
+    text-align: center;
+    font-family: iranb;
+
+}
+
+
+  
+.thumbnail img{
+    height: 100px;
+    display: inline-block;
+}
+.caption p{
+    font-family: iranb;
+    font-size: 15px;
+}
+.advice{
+    height:400px;
+    background-image: url('../image/645-min.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+
+   
+
+}
+.opacity2{
+    background: linear-gradient(to right,#524aef,#931dd1);
+    opacity: 0.45;
+    position: relative;
+    height: 400px;
+
+
+}
+.advice p{
+    text-align: center;
+    font-family: iranb;
+    font-size: 18px;
+    color: white;
+}
+
+.btn-primary{
+    display: block;
+    background-color:rgb(255,255,255)!important;
+    font-family: iranb;
+    border-radius: 10px;
+    color: black!important;
+    width:120px;
+    height:60px;
+    border-color: #fff!important;
+    
+}
+.txt{
+    position: absolute;
+    width:50%;
+    height: 50%;
+    top:25%;
+    left:25%;
+    margin: auto;
+
+}
+
+.blog{
+    padding-bottom:30px;
+    background-color: #E0C5FF;
+    margin-top: 20px;
+}
+
+.blog h1{
+    font-family: iranb;
+    text-align: center;
+    /* font-size: 25px; */
+
+}
+.card{
+    margin-bottom:10px;
+    border-radius: 20px!important;
+
+}
+.card-body{
+    border-radius: 20px;
+}
+
+
+.card-link{
+    width:100px;
+    display: block;
+    color: #931dd1;
+    margin: auto!important;
+}
+.persons{
+    margin-top:20px;
+    
+    
+}
+.persons img{
+    width: 100%;
+    height:auto;
+    border-radius: 20px;
+
+}
+.persons a{
+    padding: 5px;
+  display: block;
+    text-align: center;
+    font-family: iranb;
+    color: black;
+
+}
+.persons a:hover{
+    text-decoration: none;
+    color:darkviolet;
+}
+
+.more {
+
+    width: 200px;
+    font-family: iranb;
+    font-size: 20px;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+
+}
+.btn{
+    display: block!important;
+    margin:30px auto;
+
+}
+
+
+.workers{
+    /*height:400px;*/
+    
+}
+.workers p{
+    text-align: center;
+    font-family: iranb;
+    
+}
+.workers h2{
+    text-align: center;
+    font-family: iranb;
+    padding-top: 15px;
+}
+
+.thumbnail img{
+    height: 180px;
+}
+.end{
+
+    -webkit-clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    -moz-clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    
+  
+}   
+.opacity4{
+    -webkit-clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    -moz-clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 28%, 100% 100%, 0 100%);
+    background: linear-gradient(to right,#524aef,#931dd1);
+    opacity: 0.45;
+   
+
+}
+
+
+
+#mymap{
+   margin-top: 70px;
+}
+.copyright{
+    background-color: black;
+    margin-bottom: 0!important;
+    color:white;
+    padding: 10px;
+}
+.socials{
+
+    text-align: center;
+}
+
+.social{
+    color:white;
+    font-size:30px;
+    display: inline-block;
+    margin-right: 20px;
+
+}
+.connection{
+    margin-top:20px;
+    padding-top:200px;
+}
+.connection h2{
+
+    color: #fff;
+    font-family: iranb;
+}
+.connection p{
+    color: #fff;
+    font-family:iranb;
+    font-size: 15px;
+}
+.w-50{
+    margin: auto;
+    border-radius: 20px;
+}
+.carousel-control-prev img{
+  width: 20px;
+  height: 20px;
+    
+}
+.carousel-control-next img{
+    width: 20px;
+    height: 20px;
+      
+}
